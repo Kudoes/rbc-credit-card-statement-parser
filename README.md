@@ -32,6 +32,7 @@ You need to ensure that Java is installed in your machine/environment. You can d
 ### Python Packages
 1. tabula-py
 2. pandas
+3. numpy
 
 You can download the above packages using either pip or conda:
 
@@ -39,11 +40,13 @@ You can download the above packages using either pip or conda:
 ```
 pip install tabula-py
 pip install pandas
+pip install numpy
 ```
 **Conda**
 ```
 conda install tabula-py
 conda install pandas
+conda install numpy
 ```
 
 ## Execution
