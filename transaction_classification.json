@@ -1,0 +1,107 @@
+{
+    "Travel/Accomodation": [
+        "AIRBNB",
+        "COURTYARD BY MARRIOTT",
+        "EXPEDIA",
+        "QUALITY INN",
+        "HOLIDAY INN",
+        "HILTON GARDEN INN"
+    ],
+    "Travel/Transport": [
+        "AIR CAN",
+        "WESTJET",
+        "AIR TRANSAT",
+        "EASYJET",
+        "PETROCAN",
+        "SHELL",
+        "ULTRAMAR",
+        "ESSO",
+        "407-ETR"
+    ],
+    "Software": [
+        "GOOGLE",
+        "MICROSOFT",
+        "MSFT",
+        "ADOBE CREATIVE CLOUD",
+        "JETBRAINS",
+        "ATLASSIAN"
+    ],
+    "Hardware": [
+        "APPLE",
+        "BEST BUY",
+        "BESTBUY",
+        "STAPLES",
+        "NEWEGG"
+    ],
+    "Furniture": [
+        "THE HOME DEPOT",
+        "IKEA",
+        "CANADIANTIRE",
+        "OVERSTOCK.COM",
+        "WAYFAIR",
+        "LEON'S FURNITURE"
+    ],
+    "Business/Other": [
+    ],
+    "Food/Groceries": [
+        "METRO",
+        "COSTCO",
+        "SOBEYS",
+        "WAL-MART",
+        "FARM BOY",
+        "SHOPPER'S",
+        "SHOPPERSDRUGMART"
+    ],
+    "Dining": [
+        "STARBUCKS",
+        "PIZZA PIZZA",
+        "MCDONALD'S",
+        "A&W",
+        "A & W",
+        "POPEYES",
+        "SECOND CUP",
+        "TIM HORTONS",
+        "BURGER KING",
+        "SUBWAY",
+        "KFC",
+        "SKIPTHEDISHES",
+        "UBER",
+        "UBEREATS",
+        "YOGEN FRUZ",
+        "THAI EXPRESS",
+        "HARVEYS",
+        "TACO BELL"
+    ],
+    "Medical": [
+        "PHARMACY",
+        "REXALL"
+    ],
+    "Bank/Charges": ["PURCHASE INTEREST", "PROVINCIAL TAX"],
+    "Entertainment": [
+        "SPOTIFY",
+        "NETFLIX",
+        "DISNEYPLUS",
+        "CRAVE",
+        "DAZN"
+    ],
+    "Payments": ["PAYMENT - THANK YOU", "PAYBACK WITH POINTS"],
+    "Shopping/Other": [
+        "AMAZON",
+        "HUDSON'S BAY",
+        "HUDSONSBAY",
+        "THEBAY.COM",
+        "FOOT LOCKER",
+        "NIKE",
+        "GAP",
+        "ADIDAS"
+    ],
+    "Bills": ["ROGERS", "BELL CANADA", "TELUS"],
+    "Tuition/Supplies": [
+    ],
+    "Miscellaneous": [
+    ],
+    "Annual Fee": [
+        "ANNUAL FEE",
+        "ANNUAL REBATE FEE"
+    ]
+}
